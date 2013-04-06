@@ -1,0 +1,5 @@
+package kakeli.endlessminecraft.client;
+
+public class ClientProxy {
+
+}

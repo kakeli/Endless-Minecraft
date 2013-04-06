@@ -1,0 +1,12 @@
+INDEX VERSION 1.126+C:\Documents and Settings\Carter\Desktop\forge\mcp\eclipse\.metadata\.plugins\org.eclipse.jdt.core
+4155206848.index
+2362514756.index
+3012018768.index
+1498219845.index
+2885049050.index
+2278688666.index
+3484492120.index
+1483300421.index
+1732807061.index
+286606776.index
+4214182936.index

@@ -1,0 +1,22 @@
+package kakeli.endlessminecraft;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.client.renderer.texture.IconRegister;
+
+public class XRayBlock extends Block {
+
+        public XRayBlock (int id, int texture, Material material) {
+                super(id, material);
+        }
+        
+        public String getTextureFile () {
+                return CommonProxy.BLOCK_PNG;
+        }
+
+        public void registerIcons(IconRegister iconRegister)
+        {
+                 blockIcon = iconRegister.registerIcon("endlessminecraft:xray");
+        }
+        
+}
